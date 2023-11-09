@@ -1,4 +1,3 @@
-![image](https://github.com/HossamHeikal/AIS-airflow-pipeline/assets/58578405/eff6bb4d-c784-4cc6-9e4a-71c3c812c1b8)# AIS-airflow-pipeline
 End-to-End Automated Data Pipeline: From Data Acquisition to Visualization with Dockerized Spark, HDFS, and Airflow
 ![image](https://github.com/HossamHeikal/AIS-airflow-pipeline/assets/58578405/b4b000b5-0b52-4613-b044-03aefa7a2560)
 Project Objective
